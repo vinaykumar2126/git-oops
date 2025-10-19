@@ -1,0 +1,65 @@
+{
+  "name": "git-oops",
+  "version": "1.1.0",
+  "description": "Fast, safe, terminal-first Git helper for common workflow fixes. Move commits off wrong branch, split changes, yank safely, and more.",
+  "main": "dist/cli.js",
+  "type": "module",
+  "bin": {
+    "git-oops": "./dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "test": "node test-suite.js",
+    "prepublishOnly": "npm run build",
+    "postinstall": "echo '✅ git-oops installed! Try: git oops --help'"
+  },
+  "keywords": [
+    "git",
+    "cli",
+    "workflow",
+    "developer-tools",
+    "git-helper",
+    "commit",
+    "branch",
+    "stash",
+    "merge",
+    "revert",
+    "productivity",
+    "devops"
+  ],
+  "author": {
+    "name": "git-oops contributors",
+    "email": "contributors@git-oops.dev"
+  },
+  "license": "MIT",
+  "homepage": "https://git-oops.dev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/divitcr7/git-oops.git"
+  },
+  "bugs": {
+    "url": "https://github.com/divitcr7/git-oops/issues"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^11.1.0",
+    "execa": "^8.0.1",
+    "inquirer": "^9.2.12"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.8.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.2.2"
+  },
+  "files": [
+    "dist/**/*",
+    "README.md",
+    "LICENSE"
+  ]
+}
