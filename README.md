@@ -191,31 +191,31 @@ Below are video demonstrations of git-oops commands in action:
     <td width="50%">
       <h3>Undo Command</h3>
       <p>Safely undo the most recent commit while preserving the changes.</p>
-      <a href="./assets/videos/Undo-command.mp4">📹 Watch Undo Command Demo</a>
+      <a href="https://github.com/user-attachments/assets/a1022c8f-f0d4-4eb1-9f3e-61d3e5b72c5f">📹 Watch Undo Command Demo</a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>Split Command</h3>
       <p>Split a large commit into smaller, focused commits by directory.</p>
-      <a href="./assets/videos/Split-command.mp4">📹 Watch Split Command Demo</a>
+      <a href="https://github.com/user-attachments/assets/bbe9f425-f5fd-4ac7-9bf1-d62d9801c3ec">📹 Watch Split Command Demo</a>
     </td>
     <td width="50%">
       <h3>Pocket Command</h3>
       <p>Save your current working state to a hidden reference for later retrieval.</p>
-      <a href="./assets/videos/Pocket-command.mp4">📹 Watch Pocket Command Demo</a>
+      <a href="https://github.com/user-attachments/assets/d437f322-e17a-4b24-8b3b-81f6e9bb6d46">📹 Watch Pocket Command Demo</a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>Revert Merge Command</h3>
       <p>Safely revert a merge commit with proper handling of multiple parents.</p>
-      <a href="./assets/videos/Revertmerge-command.mp4">📹 Watch Revert Merge Command Demo</a>
+      <a href="https://github.com/user-attachments/assets/1f6275b5-3b4c-4ba0-8e35-bb78d46c2b37">📹 Watch Revert Merge Command Demo</a>
     </td>
     <td width="50%">
       <h3>Yank Command</h3>
       <p>Extract specific commits from one branch and apply them to another branch.</p>
-      <a href="./assets/videos/Yank-command.mp4">📹 Watch Yank Command Demo</a>
+      <a href="https://github.com/user-attachments/assets/52f4fcd5-79b7-4eae-a92d-bf586ef30441">📹 Watch Yank Command Demo</a>
     </td>
   </tr>
 </table>
@@ -223,4 +223,5 @@ Below are video demonstrations of git-oops commands in action:
 ## License
 
 MIT
+
 
