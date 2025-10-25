@@ -179,14 +179,14 @@ Below are video demonstrations of git-oops commands in action:
     <td width="50%">
       <h3>Fixup Command</h3>
       <p>Fix the last commit by adding current changes without creating a new commit.</p>
-      <a href="./assets/videos/Fixup-command.mp4">📹 Watch Fixup Command Demo</a>
+      <a href="https://github.com/user-attachments/assets/21d78501-12ad-469b-8d8e-3a8863cf0c88">📹 Watch Fixup Command Demo</a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>Wrong Branch Command</h3>
       <p>Move commits from the current branch to the correct target branch.</p>
-      <a href="./assets/videos/Wrong-branch-command.mp4">📹 Watch Wrong Branch Command Demo</a>
+      <a href="https://github.com/user-attachments/assets/df15e652-04b9-40c3-b2cc-8dfcac3a825c">📹 Watch Wrong Branch Command Demo</a>
     </td>
     <td width="50%">
       <h3>Undo Command</h3>
