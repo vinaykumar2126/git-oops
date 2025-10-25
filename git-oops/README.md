@@ -1,4 +1,4 @@
-# git-oops
+﻿# git-oops
 
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)](https://nodejs.org/)
 [![npm downloads](https://img.shields.io/npm/dt/git-oops.svg)](https://www.npmjs.com/package/git-oops)
@@ -165,6 +165,64 @@ git oops undo  # Undoes commit but keeps changes
 git oops split  # Splits by directory into separate commits
 ```
 
+## Command Demonstrations
+
+Below are video demonstrations of git-oops commands in action:
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Save Command</h3>
+      <p>Quickly save all changes with a commit, similar to <code>git add . && git commit</code>.</p>
+      <a href="https://github.com/user-attachments/assets/2a267d7b-a271-4e8f-8bf9-799f24686a35">📹 Watch Save Command Demo</a>
+    </td>
+    <td width="50%">
+      <h3>Fixup Command</h3>
+      <p>Fix the last commit by adding current changes without creating a new commit.</p>
+      <a href="https://github.com/user-attachments/assets/21d78501-12ad-469b-8d8e-3a8863cf0c88">📹 Watch Fixup Command Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Wrong Branch Command</h3>
+      <p>Move commits from the current branch to the correct target branch.</p>
+      <a href="https://github.com/user-attachments/assets/df15e652-04b9-40c3-b2cc-8dfcac3a825c">📹 Watch Wrong Branch Command Demo</a>
+    </td>
+    <td width="50%">
+      <h3>Undo Command</h3>
+      <p>Safely undo the most recent commit while preserving the changes.</p>
+      <a href="https://github.com/user-attachments/assets/a1022c8f-f0d4-4eb1-9f3e-61d3e5b72c5f">📹 Watch Undo Command Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Split Command</h3>
+      <p>Split a large commit into smaller, focused commits by directory.</p>
+      <a href="https://github.com/user-attachments/assets/bbe9f425-f5fd-4ac7-9bf1-d62d9801c3ec">📹 Watch Split Command Demo</a>
+    </td>
+    <td width="50%">
+      <h3>Pocket Command</h3>
+      <p>Save your current working state to a hidden reference for later retrieval.</p>
+      <a href="https://github.com/user-attachments/assets/d437f322-e17a-4b24-8b3b-81f6e9bb6d46">📹 Watch Pocket Command Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Revert Merge Command</h3>
+      <p>Safely revert a merge commit with proper handling of multiple parents.</p>
+      <a href="https://github.com/user-attachments/assets/1f6275b5-3b4c-4ba0-8e35-bb78d46c2b37">📹 Watch Revert Merge Command Demo</a>
+    </td>
+    <td width="50%">
+      <h3>Yank Command</h3>
+      <p>Extract specific commits from one branch and apply them to another branch.</p>
+      <a href="https://github.com/user-attachments/assets/52f4fcd5-79b7-4eae-a92d-bf586ef30441">📹 Watch Yank Command Demo</a>
+    </td>
+  </tr>
+</table>
+
 ## License
 
 MIT
+
+
+
