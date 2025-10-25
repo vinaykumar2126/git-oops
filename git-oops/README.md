@@ -1,4 +1,7 @@
+
 ﻿# git-oops
+=======
+# git-oops
 
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)](https://nodejs.org/)
 [![npm downloads](https://img.shields.io/npm/dt/git-oops.svg)](https://www.npmjs.com/package/git-oops)
@@ -164,7 +167,6 @@ git oops undo  # Undoes commit but keeps changes
 ```bash
 git oops split  # Splits by directory into separate commits
 ```
-
 ## Command Demonstrations
 
 Below are video demonstrations of git-oops commands in action:
@@ -223,6 +225,8 @@ Below are video demonstrations of git-oops commands in action:
 ## License
 
 MIT
+
+
 
 
 
